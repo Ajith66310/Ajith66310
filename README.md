@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ajith k v</h1>
-<h3 align="center">A fullstack developer from India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
- 🌱 I’m currently learning **Mongodb,Express.js,React.js,Node.js,Three.js,Typescript,Gsap**
-
- 💬 Ask me about **MERN**
-
- 📫 How to reach me **ajith66310@gmail.com**
+<pre>
+{
+"name":"Ajith k v",
+"email":"ajith66310@gmail.com",
+"location":"thrissur,kerala"
+"role":"mern developer"
+}
+</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
