@@ -11,7 +11,7 @@
   <pre>
   const skills = [
   {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "TailwindCSS"]
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "TailwindCSS", "Gsap"]
   },
   {
     backend: ["Node.js", "Express", "MongoDB", "Redis"]
