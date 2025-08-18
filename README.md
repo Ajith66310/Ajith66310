@@ -3,7 +3,7 @@
 {
 "name":"Ajith k v",
 "email":"ajith66310@gmail.com",
-"location":"thrissur,kerala"
+"location":"thrissur,kerala",
 "role":"mern developer"
 }
 </pre>
